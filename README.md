@@ -150,4 +150,4 @@ WD-Seatwork-4
 | Youtube | How to | https://www.youtube.com/ |
 | Top Secret: Smokey Nagata Cars Decoded | Info for Feature-1 |https://www.way.com/blog/smokey-nagata-cars/ |
 | Welcome to the RWB | Info for Feature-2 |https://rwbregistry.org/ |
-| Deployment Link | Published site link |  |
+| Deployment Link | Published site link | https://itsnotmike369.github.io/WD-Seatwork-4/|
