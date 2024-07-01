@@ -19,7 +19,7 @@ body,html{
     padding: 15%;
   
 
-    background-image: url(/pages/feature-1/assets/img/toyota.jpg);
+    background-image: url(../img/toyota.jpg);
     background-size: cover;
     background-position: center;
 
